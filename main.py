@@ -56,7 +56,7 @@ score = 0
 remaining_time = None
 
 window = Tk()
-window.title("Watermarking images")
+window.title("Typing speed test")
 window.geometry('800x600')
 my_font = ('helvetica', 25, 'bold')
 main_label = Label(text='welcome to Typing speed test', width=40, pady=2, font=my_font)
